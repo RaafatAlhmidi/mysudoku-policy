@@ -1,1 +1,0 @@
-# mysudoku-policy
